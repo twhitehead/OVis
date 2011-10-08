@@ -1,5 +1,5 @@
 Name:		ovis
-Version:	0.1.0+git20110929
+Version:	0.1.0+git20111008
 Release:	1%{?dist}.SN.1
 Summary:	OVis
 
@@ -58,5 +58,8 @@ exit 0
 
 
 %changelog
+* Sat Oct 08 2011 Tyson Whitehead <twhitehead@gmail.com> - 0.1.0+git20111008-1.SN.1
+- New upstream snapshot
+
 * Thu Sep 29 2011 Tyson Whitehead <twhitehead@gmail.com> - 0.1.0+git20110929-1.SN.1
 - Initial package based on current git repo version
